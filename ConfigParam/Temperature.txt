@@ -1,0 +1,6 @@
+Initial temperature T0 (T01, T02, ...):
+1.
+Termometro (0 = spento, 1 = acceso):
+0
+Di quanto riscaldo (specie 1, specie 2, ...):
+0.01

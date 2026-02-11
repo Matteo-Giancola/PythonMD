@@ -1,0 +1,2 @@
+Mass of atomic species (m1, m2, ...):
+106.4

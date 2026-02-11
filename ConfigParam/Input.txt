@@ -1,0 +1,20 @@
+Dimensions:
+3
+Nwrite:
+20
+Ntime:
+1000
+Time step h:
+0.01
+Epsilon:
+1.
+Sigma:
+1.
+Boltzmann costant:
+1.
+Nbin:
+150
+Ntemp:
+200
+Nstab
+200
