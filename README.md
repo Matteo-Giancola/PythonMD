@@ -16,7 +16,6 @@
 ### Output Analysis
 - Extract **final atomic configuration** after the MD simulation.
 - Compute **radial distribution functions (RDF)** to analyze structural properties.
-- Plot **RDF** and other observables directly in the notebook.
 
 ### Python Compatibility
 - Developed in **Python 3.12.7**.
